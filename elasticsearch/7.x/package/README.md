@@ -1,0 +1,3 @@
+将elasticsearch-7.10.1-linux-x86_64.tar.gz放在该目录下...
+<br><br>
+[点击下载elasticsearch-7.10.1-linux-x86_64.tar.gz](https://repo.huaweicloud.com/elasticsearch/7.10.1/elasticsearch-7.10.1-linux-x86_64.tar.gz)
